@@ -1,0 +1,4 @@
+Requeriments:
+python-gst0.10
+
+Just run: python gstpy.py
